@@ -4,6 +4,9 @@
 # Escritorio
 * [Qtile](https://wiki.archlinux.org/title/Qtile#Installation) | [Doc](https://docs.qtile.org/)
 
+# X11
+* [Xinit](https://wiki.archlinux.org/title/Xinit#Installation)
+
 ## Terminal
 * [Alacritty](https://wiki.archlinux.org/title/Alacritty#Installation)
 * [Xterm](https://wiki.archlinux.org/title/Xterm#Installation)
@@ -17,7 +20,7 @@
 * [Feh](https://wiki.archlinux.org/title/feh#Installation)
 
 ## Screen Size
-* [Feh](https://wiki.archlinux.org/title/Xrandr#Installation)
+* [Xrandr](https://wiki.archlinux.org/title/Xrandr#Installation)
 
 ## Fonts
 * [OverPass Nerd Font](https://archlinux.org/packages/community/any/otf-overpass-nerd/)
