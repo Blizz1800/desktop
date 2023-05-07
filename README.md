@@ -11,6 +11,13 @@
 * [Alacritty](https://wiki.archlinux.org/title/Alacritty#Installation)
 * [Xterm](https://wiki.archlinux.org/title/Xterm#Installation)
 
+## Explorer
+* [Thunar (GUI)](https://wiki.archlinux.org/title/Thunar#Installation)
+* [Ranger (CLI)](https://wiki.archlinux.org/title/Ranger#Installation)
+
+## Imagenes
+* [Imw](https://archlinux.org/packages/community/x86_64/imv/)
+
 ## Audio
 * [PulseAudio](https://wiki.archlinux.org/title/PulseAudio#Installation)
 * [Pavucontrol](https://archlinux.org/packages/extra/x86_64/pavucontrol/)
