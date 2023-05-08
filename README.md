@@ -32,6 +32,9 @@
 ### Audio
 * [VolumeIcon](https://archlinux.org/packages/community/x86_64/volumeicon/)
 
+### Battery
+* [CBattIcon](https://archlinux.org/packages/community/x86_64/cbatticon/)
+
 ## GTK-Theme
 * [Material-Black-Blueberry](https://www.gnome-look.org/p/1316887)
 * [Material-Black-Blueberry-Icons](https://www.pling.com/p/1333360/)
