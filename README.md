@@ -4,7 +4,7 @@
 # Escritorio
 * [Qtile](https://wiki.archlinux.org/title/Qtile#Installation) | [Doc](https://docs.qtile.org/)
 
-# X11
+## X11
 * [Xinit](https://wiki.archlinux.org/title/Xinit#Installation)
 
 ## Terminal
@@ -21,6 +21,10 @@
 ## Audio
 * [PulseAudio](https://wiki.archlinux.org/title/PulseAudio#Installation)
 * [Pavucontrol](https://archlinux.org/packages/extra/x86_64/pavucontrol/)
+
+## GTK-Theme
+* [Material-Black-Blueberry](https://www.gnome-look.org/p/1316887)
+* [Material-Black-Blueberry-Icons](https://www.pling.com/p/1333360/)
 
 ## Transparencia y Fondos
 * [Picom](https://wiki.archlinux.org/title/picom#Installation)
