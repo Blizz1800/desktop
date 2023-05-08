@@ -22,6 +22,16 @@
 * [PulseAudio](https://wiki.archlinux.org/title/PulseAudio#Installation)
 * [Pavucontrol](https://archlinux.org/packages/extra/x86_64/pavucontrol/)
 
+## Network
+* [NetworkManager](https://wiki.archlinux.org/title/NetworkManager#Installation)
+
+## Systray
+### Network
+* [NetworkManager-Applet](https://archlinux.org/packages/extra/x86_64/network-manager-applet/)
+
+### Audio
+* [VolumeIcon](https://archlinux.org/packages/community/x86_64/volumeicon/)
+
 ## GTK-Theme
 * [Material-Black-Blueberry](https://www.gnome-look.org/p/1316887)
 * [Material-Black-Blueberry-Icons](https://www.pling.com/p/1333360/)
