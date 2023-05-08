@@ -25,6 +25,10 @@
 ## Network
 * [NetworkManager](https://wiki.archlinux.org/title/NetworkManager#Installation)
 
+## Notificaciones
+* [Notification-Daemon](https://archlinux.org/packages/community/x86_64/notification-daemon/)
+* [LibNotify](https://wiki.archlinux.org/title/Desktop_notifications)
+
 ## Systray
 ### Network
 * [NetworkManager-Applet](https://archlinux.org/packages/extra/x86_64/network-manager-applet/)
