@@ -10,6 +10,8 @@
 ## Media Players
 ### Video
 * [Celluloid](https://celluloid-player.github.io)
+### Audio
+* [Lollypod](https://wiki.gnome.org/Apps/Lollypop)
 
 ## Terminal
 * [Alacritty](https://wiki.archlinux.org/title/Alacritty#Installation)
