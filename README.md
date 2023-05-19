@@ -7,6 +7,10 @@
 ## X11
 * [Xinit](https://wiki.archlinux.org/title/Xinit#Installation)
 
+## Media Players
+### Video
+* [Celluloid](https://celluloid-player.github.io)
+
 ## Terminal
 * [Alacritty](https://wiki.archlinux.org/title/Alacritty#Installation)
 * [Xterm](https://wiki.archlinux.org/title/Xterm#Installation)
